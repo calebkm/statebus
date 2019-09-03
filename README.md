@@ -41,4 +41,4 @@ Both [Statebus](https://stateb.us) and this gem are a work in progress. The next
 
 Join the [Statebus / Braid Google Group](https://groups.google.com/forum/#!forum/braid-http) to follow along with development.
 
-* This is free, open source software. No guarantee actually provided. But we're pretty sure you're gonna love it.
+*This is free, open source software. No guarantee actually provided. But we're pretty sure you're gonna love it.
