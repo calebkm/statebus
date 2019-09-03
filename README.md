@@ -1,5 +1,5 @@
 # Statebus Rails
-Bringing the magical world of [Statebus](https://stateb.us) to Rails.
+Bringing the magical world of [Statebus](https://stateb.us) to [Rails](https://rubyonrails.org).
 
 ### Why use Statebus?
 [Statebus](https://stateb.us) is a reactive, synchronous JavaScript framework. Building a real-time collaborative application is usually a big ol' pain in the butt. Statebus makes it really easy to do things that have historically been time consuming and challenging to build. Why expend brain power on the boring, tedious stuff, when Statebus can do it for you? Your brain will thank you.
