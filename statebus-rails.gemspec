@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'statebus-rails'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.date        = '2019-09-03'
   s.summary     = 'Statebus Ruby gem for Rails.'
   s.description = "A Statebus Ruby gem for Rails."
