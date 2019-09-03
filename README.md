@@ -7,17 +7,17 @@ A [Statebus](https://stateb.us) Ruby gem for Rails.
 [Statebus](https://stateb.us) improves HTTP and cleans up the entire programming stack, eliminating the need for complex web frameworks. These frameworks form a patchwork of layers and hacks that have been built on top of HTTP to emulate synchronization. Without them you'll use way less code. And programming will become way more fun.
 
 ### What is Statebus?
-1.  A new version of HTTP that adds synchronization.
+1. A new version of HTTP that adds synchronization.
 Makes dynamic sites update automatically.
 
-2.  A new synchronous programming architecture.
+2. A new synchronous programming architecture.
 Like React, but across the whole stack. No more callbacks. Separates code from state.
 
-3.  A backwards-compatible library you can include in your existing website.
+3. A backwards-compatible library you can include in your existing website.
 Include in nodejs or client side to get Statebus features in any web app.
 
-4.  A cutting-edge synchronization algorithm.
-(Currently in research)
+4. A cutting-edge synchronization algorithm.
+[(Currently in research)](https://stateb.us/universal-sync)
 
 ### Statebus + Rails = Your new favorite stack
 Like Rails, Statebus was designed to take all of the pain out of building modern, dynamic, JavaScript based web apps. Statebus uses CoffeeScript templating, meaning it feels a lot like building an app with Ruby. I built this gem to help promote [Statebus](https://stateb.us) and get it in the hands of more Ruby/Rails developers.
