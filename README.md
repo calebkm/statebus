@@ -17,7 +17,7 @@ You're ready to start building with Statebus!
 ### Why use Statebus?
 [Statebus](https://stateb.us) is a new JavaScript framework that provides reactivity and synchronicity out of the box. Building real-time, collaborative applications is usually a big ol' pain in the butt. Statebus makes it easy to do things that have historically been time consuming and challenging. Why expend brain power on the boring, tedious stuff, when Statebus can do it for you? Your brain will thank you.
 
-[Statebus](https://stateb.us) improves HTTP and cleans up the entire programming stack, eliminating the need for complex web frameworks. These frameworks have formed a patchwork of layers and hacks all built on top of HTTP to emulate real-time app synchronization. Without them you'll write way less code. And programming will becomes way more fun. Guarunteed ©
+[Statebus](https://stateb.us) improves HTTP and cleans up the entire programming stack, eliminating the need for complex web frameworks. These frameworks have formed a patchwork of layers and hacks all built on top of HTTP to emulate real-time app synchronization. Without them you'll write way less code. And programming will becomes way more fun. Guaranteed*
 
 ### What is Statebus?
 1. A new version of HTTP that adds synchronization.  
@@ -40,3 +40,5 @@ Like Rails, Statebus was designed to take all of the pain out of building modern
 Both [Statebus](https://stateb.us) and this gem are a work in progress. The next version of Statebus - version 7 - will be rebranded as [Braid](https://braid.news). This gem will be renamed once that happens, so keep an eye out! 
 
 Join the [Statebus / Braid Google Group](https://groups.google.com/forum/#!forum/braid-http) to follow along with development.
+
+* This is free, open source software. No guarantee actually provided. But we're pretty sure you're gonna love it.
