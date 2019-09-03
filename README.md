@@ -35,6 +35,8 @@ Include in nodejs or client side to get Statebus features in any web app.
 ### Statebus + Rails = Your new favorite stack
 Like Rails, Statebus was designed to take all of the pain out of building modern, dynamic, JavaScript based web apps. Statebus uses CoffeeScript templating, meaning it feels a lot like building an app with Ruby. I built this gem to help promote [Statebus](https://stateb.us) and get it in the hands of more Ruby/Rails developers.
 
-Both [Statebus](https://stateb.us) and this gem are a work in progress. Please visit the [Statebus Github Repo](https://github.com/invisible-college/statebus) to learn more, and check out the [Statebus Tutorial](https://stateb.us/tutorial) to get started building apps using this amazing framework.
 
-### More soon!
+### More coming soon!
+Both [Statebus](https://stateb.us) and this gem are a work in progress. The next version of Statebus - version 7 - will be rebranded as [Braid](https://braid.news). This gem will be renamed once that happens, so keep an eye out! 
+
+Join the [Statebus / Braid Google Group](https://groups.google.com/forum/#!forum/braid-http) to follow along with development.
