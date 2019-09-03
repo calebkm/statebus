@@ -1,6 +1,19 @@
 # Statebus Rails
 Bringing the magical world of [Statebus](https://stateb.us) to [Rails](https://rubyonrails.org).
 
+### Installation
+Add to your gemfile the standard way:
+```ruby
+gem 'statebus-rails'
+```
+
+Inside of your `application.js` file add the line:
+```javascript
+//= include statebus-rails
+```
+
+You're ready to start building with Statebus!
+
 ### Why use Statebus?
 [Statebus](https://stateb.us) is a new JavaScript framework that provides reactivity and synchronicity out of the box. Building real-time, collaborative applications is usually a big ol' pain in the butt. Statebus makes it easy to do things that have historically been time consuming and challenging. Why expend brain power on the boring, tedious stuff, when Statebus can do it for you? Your brain will thank you.
 
