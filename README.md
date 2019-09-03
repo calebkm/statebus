@@ -1,2 +1,2 @@
-# statebus
-Statebus Ruby Gem.
+# Statebus Rails
+A Statebus Ruby gem for Rails.
